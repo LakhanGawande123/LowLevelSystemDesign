@@ -1,5 +1,6 @@
 # LowLevelSystemDesign
 
+URL: https://github.com/ashishps1/awesome-low-level-design?tab=readme-ov-file
 
 <p align="center">
   <img src="images/lld-repo-logo.png" width="350" height="200">
